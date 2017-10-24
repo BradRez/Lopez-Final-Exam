@@ -1,0 +1,92 @@
+.main
+{
+	
+	margin: auto;
+	background-color:#441F1F;
+	text-align:center;
+	color: white;
+	padding: 1%, 2%;
+}
+.semi
+
+{
+	text-align:center;
+	background-color: white;
+	padding: 5px;
+}
+table
+{	
+	width: 100%;
+	border:1px solid;
+	color: #FFF;
+	margin: auto;
+	
+
+}
+thead, tbody, td, th
+{	
+border: 1px solid black;
+}
+
+.name
+{
+	width: 70px;
+	padding: 10px;
+}
+.number
+{
+	width: 10px;
+	color: white;
+	padding: 1px;
+}
+
+.name,.number
+{
+	background-color:#2F4F4F;
+}
+.a
+{
+ 	background-color:#778899;
+}
+.b
+{
+	background-color:#f0d4bd;
+}
+.c
+{
+	background-color:#DAA520;
+}
+.d
+{
+	background-color:#BC8F8F;
+}
+.basic
+{
+ 	background-color:#D2691E;
+}
+.common
+{
+	background-color: 	#8B4513;
+}
+.core
+{
+	background-color:#441F1F;
+}
+.colorB
+{
+	background-color: 	#e59a64;
+}
+.colorC
+{
+	background-color: #8B4513;
+}
+.colorC1
+{
+	background-color: #441F1F;
+}
+.foot-content
+{
+ 	display: inline-block;
+ 	width: 50%;
+}
+
